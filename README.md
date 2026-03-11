@@ -6,11 +6,11 @@
 > **Nonetheless, <ins>thanks for checking out this project!</ins>** ❤️
 
 > [!NOTE]
-> This project is still in **`Private Testing`**, and changes to drafts are to be expected.
+> This project is still in **`Planning`**, so files in [calendar.time/UIDesignDrafts](https://github.com/webclasstools/calendar.time/tree/main/UIDesignDrafts) are set to change.
 > 
 > Check out my other project, [current.time](https://github.com/webclasstools/current.time) which displays the current time. [current.time](https://github.com/webclasstools/current.time) is in public testing.
 
-Latest Version - **`Private Testing`**
+Latest Version - **`Planning`**
 
 ## About
 
